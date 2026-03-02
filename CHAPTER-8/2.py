@@ -5,3 +5,6 @@ def calclutaor():
     operator = input("Enter your operation = ")
     if operator == "*":
         print("Multiplication is = ", num1 * num2)
+    elif operator == "%":
+        print("Remainder is = " , num1 % num2)
+        
