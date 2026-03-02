@@ -2,7 +2,7 @@ def outer():
     def inner():
         print("Enter")
 
-    printn()
+    outer()
 
 
-print()
+inner()
