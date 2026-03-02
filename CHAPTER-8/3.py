@@ -5,7 +5,6 @@ def outer():
         print("Yo im inner ")
 
     inner()
-    
 
 
 outer()
