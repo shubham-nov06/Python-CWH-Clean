@@ -6,5 +6,4 @@ def calclutaor():
     if operator == "*":
         print("Multiplication is = ", num1 * num2)
     elif operator == "%":
-        print("Remainder is = " , num1 % num2)
-        
+        print("Remainder is = ", num1 % num2)
