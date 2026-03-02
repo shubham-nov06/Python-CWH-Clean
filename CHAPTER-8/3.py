@@ -4,7 +4,8 @@ def outer():
     def inner():
         print("Yo im inner ")
 
-    inner()
+
+inner()
 
 
 outer()
