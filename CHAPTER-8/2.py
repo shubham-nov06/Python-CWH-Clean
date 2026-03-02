@@ -7,3 +7,4 @@ def calclutaor():
         print("Multiplication is = ", num1 * num2)
     elif operator == "%":
         print("Remainder is = ", num1 % num2)
+calclutaor()
