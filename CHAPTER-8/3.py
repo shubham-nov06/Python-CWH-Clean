@@ -1,6 +1,8 @@
 def outer():
+    print("Yo im outer")
+
     def inner():
-        print("Enter")
+        print("Yo im inner ")
 
     inner()
 
