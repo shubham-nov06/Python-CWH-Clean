@@ -8,6 +8,10 @@ def calclutaor():
             print("Multiplication is = ", num1 * num2)
         elif operator == "%":
             print("Remainder is = ", num1 % num2)
+        elif operator == "+":
+            print("Sum is = ", num1 + num2)
+        elif operator == "-":
+            print("Subtraction is ", num1 - num2)
 
 
 calclutaor()
