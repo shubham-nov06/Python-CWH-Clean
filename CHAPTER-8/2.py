@@ -13,5 +13,4 @@ def calclutaor():
         elif operator == "-":
             print("Subtraction is ", num1 - num2)
 
-
 calclutaor()
