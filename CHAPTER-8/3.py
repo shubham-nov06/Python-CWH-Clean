@@ -6,3 +6,14 @@ def outer():
     inner()
 outer()
 
+
+
+def shu():
+    print("My name is shubham")
+    
+def num():
+    print("My name is num")
+        
+shu()
+num()
+        
