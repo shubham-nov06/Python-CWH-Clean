@@ -47,4 +47,4 @@ def factorial(n):
         fact*= i 
         return fact 
     print(fact(5))
-factorial()
+factorial(5)
