@@ -1,5 +1,5 @@
 def calclutaor():
-    for i in range(2):
+    for _i in range(2):
         num1 = int(input("Enter your number = "))
         num2 = int(input("Enter your number = "))
 
