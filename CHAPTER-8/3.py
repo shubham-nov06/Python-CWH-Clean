@@ -32,3 +32,11 @@ def add(a, b):
 
 
 print(add(3, 5))
+
+
+def check(num):
+    if num % 2 == 0 :
+        print("Even")
+    else :
+        print("Odd")
+        
