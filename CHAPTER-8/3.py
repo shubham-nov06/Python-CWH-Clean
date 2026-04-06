@@ -1,4 +1,8 @@
 def outer():
+    """
+    The code defines multiple functions in Python and calls them to demonstrate nested functions and
+    function calls.
+    """
     print("Yo im outer")
 
     def inner():
