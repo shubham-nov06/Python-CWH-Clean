@@ -14,7 +14,6 @@ def shu():
     def num():
       print("My name is num")
       
-      
     num()  
 shu()
 
