@@ -3,8 +3,10 @@ def outer():
 
     def inner():
         print("Yo im inner ")
+        
+        
+        
 
-
+        inner()
 outer()
 
-inner()
