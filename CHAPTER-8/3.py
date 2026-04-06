@@ -7,6 +7,6 @@ def outer():
         
         
 
-        inner()
+    inner()
 outer()
 
