@@ -3,21 +3,28 @@ def outer():
 
     def inner():
         print("Yo im inner ")
-    inner()
-outer()
 
+    inner()
+
+
+outer()
 
 
 def shu():
     print("My name is shubham")
-    
+
     def num():
-      print("My name is num")
-    num()  
+        print("My name is num")
+
+    num()
+
+
 shu()
 
 
-def add(a,b):
+def add(a, b):
 
-    return a + b 
-print(add(3,5))
+    return a + b
+
+
+print(add(3, 5))
